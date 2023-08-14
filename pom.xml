@@ -23,11 +23,11 @@
     </properties>
 
     <dependencies>
-	    <dependency>
+<!-- 	    <dependency>
 	            <groupId>org.springframework.amqp</groupId>
 	            <artifactId>spring-rabbit</artifactId>
 	            <version>1.7.1.RELEASE</version>
-	    </dependency>
+	    </dependency> -->
 	    <dependency>
 	            <groupId>com.rabbitmq</groupId>
 	            <artifactId>amqp-client</artifactId>
